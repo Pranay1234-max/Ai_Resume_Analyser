@@ -341,32 +341,5 @@ http://localhost:5173
 
 ---
 
-# 👩‍💻 Author
 
-## Panjala Shambhavi
 
-AI & Machine Learning Student
-
-GitHub
-
-https://github.com/panjalashambhavi
-
-LinkedIn
-
-https://www.linkedin.com/in/shambhavi-panjala-47265835b
-
----
-
-# ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-It helps others discover the project and supports my work.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and learn from this project for educational purposes.
